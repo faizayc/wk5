@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #d6d6d6;
+    color: black;
+    text-align: center;
+    font-family: "arial", serif;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 28px 16px 80px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0 0 18px;
+}
+
+.frame {
+    width: fit-content;
+    margin: 32px auto;
+    border: 12px solid #1a00ff;
+    background: transparent;
+}
+
+.frame img {
+    display: block;
+    width: 320px;
+    height: auto;
+    border: 18px solid #7d7d7d;
+}
